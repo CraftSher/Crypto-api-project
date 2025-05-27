@@ -1,3 +1,5 @@
+![Project Banner](banner.png)
+
 # Crypto Market CLI
 
 A simple command-line Python tool that fetches and displays cryptocurrency market data using the [CoinGecko API](https://www.coingecko.com/en/api).
